@@ -56,7 +56,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level./github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ChotaCoderSK&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level./github-readme-activity-graph"><img alt="Shivam Gupta's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ChotaCoderSK&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -64,9 +64,14 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/shivam-gupta-5991991b4/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/Shivam61071300"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://github.com/guptaji2313/"><img src="https://img.icons8.com/color/48/000000/github--v3.png"/></a>
 
 </p>
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=ChotaCoderSK">
+</a>
+<a href="https://github.com/ChotaCoderSK?tab=followers"><img src="https://img.shields.io/github/followers/ChotaCoderSK?label=Followers&style=social" alt="GitHub Badge"></a>
