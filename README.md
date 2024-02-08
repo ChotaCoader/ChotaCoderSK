@@ -1,14 +1,16 @@
 <a href="https://github.com/guptaji2313/"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shivam</h1>
-<h3 align="center">I'm a passionate Full Stack Developer .</h3>
+<h3 align="center">I'm a passionate Full Stack Developer and also available for Freelance Work .</h3>
+
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Sagar Informatics Pvt. Ltd.](https://sagarinfotech.com/)**
+<!-- - 🔭 I’m currently working on **[Sagar Informatics Pvt. Ltd.](https://sagarinfotech.com/)** -->
+- 🔭 I’m currently working on **[Akhil Systems Pvt. Ltd.](https://akhilsystems.com/)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Kafka and Advance Concept on Devops .**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -16,7 +18,7 @@
 
 - 📫 How to reach me **chotacodersk@gmail.com**
 
-- ⚡ Fun fact **I play games (Like As PUBG etc.) and go to the GYM very rare case.**
+- ⚡ Fun fact **I play games (Like As PUBG,Cricket etc.) and go to the GYM very rare case.**
 
 ## 🚀 Languages and Tools:
 
@@ -53,10 +55,10 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
-<br/>
-<br/>
+<!-- <br/>
+<br/> -->
 
-<a href="https://github.com/Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level./github-readme-activity-graph"><img alt="Shivam Gupta's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ChotaCoderSK&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="https://github.com/Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level./github-readme-activity-graph"><img alt="Shivam Gupta's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ChotaCoderSK&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
 <br/>
 <br/>
@@ -71,7 +73,4 @@
 
 </p>
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=ChotaCoderSK">
-</a>
 <a href="https://github.com/ChotaCoderSK?tab=followers"><img src="https://img.shields.io/github/followers/ChotaCoderSK?label=Followers&style=social" alt="GitHub Badge"></a>
