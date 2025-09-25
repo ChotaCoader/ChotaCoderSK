@@ -1,77 +1,86 @@
-<a href="https://github.com/guptaji2313/">
-  <img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
+<a href="https://github.com/ChotaCoderSK">
+  <img width="100%" src="https://i.imgur.com/iXuL1HG.png" alt="Banner"/>
 </a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shivam</h1>
-<h3 align="center">🚀 Full Stack Developer | Problem Solver | Freelancer</h3>
+<h1 align="center">Hi 👋, I'm Shivam Gupta</h1>
+<h3 align="center">🚀 Full Stack Developer | ASP.NET Core Specialist | Problem Solver</h3>
 
 ---
 
-## 🙋‍♂️ About Me  
+## 🙋‍♂️ About Me
 
 - 🔭 Currently working at **[Akhil Systems Pvt. Ltd.](https://akhilsystems.com/)**  
-- 🌱 Exploring **Kafka** and advanced **DevOps concepts**  
+- 🏢 Past experience at **Sagar Informatics Pvt. Ltd.**  
+- 🌱 Learning **Kafka** & **Advanced DevOps Concepts**  
 - 👯 Open to collaborate on **Open Source Projects**  
-- 👨‍💻 All my work is available here: **[Portfolio](https://github.com/ChotaCoader/ChotaCoderSK.git)**  
-- 📫 Reach me at **chotacodersk@gmail.com**  
+- 📂 All my work: [GitHub Portfolio](https://github.com/ChotaCoderSK)  
+- 📫 Reach me at: **chotacodersk@gmail.com**  
 - ⚡ Fun fact: I love **gaming (PUBG, Cricket)** and sometimes hit the **gym** 😄  
 
 ---
 
-## 🚀 Tech Stack & Tools  
+## 🛠️ Tech Stack
 
-<p align="left"> 
-  <img src="https://img.icons8.com/color/50/000000/c-sharp-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/python.png"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/color/48/000000/ms-sql-server.png"/>
+<p align="center"> 
+  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" title="C#"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" title="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/000000/jquery.png" title="jQuery"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML5"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3"/>
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" title="Bootstrap"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" title="React"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" title="Node.js"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" title="Java"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" title="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/ms-sql-server.png" title="MS SQL Server"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45" title="Postman"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" title="Git"/>
 </p>
+
+---
+
+## 🏢 Experience
+
+### 🔹 Akhil Systems Pvt. Ltd. — *Software Developer* (Nov 2021 – Present)
+- Built healthcare solutions using **ASP.NET Core, MVC, C#, SQL Server**  
+- Integrated **Kafka Producer/Consumer** for real-time data sync  
+- Developed **REST APIs** + WhatsApp API for patient notifications  
+- Implemented secure **Payment Gateway integration**  
+
+### 🔹 Sagar Informatics Pvt. Ltd. — *Software Developer* (Jan 2018 – Oct 2021)
+- Developed **logistics & warehouse management solutions**  
+- Built **custom reporting modules** in MS SQL Server  
+- Worked on **API integrations** & automated workflows  
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <a href="https://github.com/ChotaCoderSK">
-    <img alt="Shivam Gupta's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ChotaCoderSK&theme=react&hide_border=true"/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChotaCoderSK&theme=tokyonight&hide_border=true" alt="Streak"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ChotaCoderSK">
-    <img alt="Shivam Gupta's Stats" src="https://github-readme-stats.vercel.app/api?username=ChotaCoderSK&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
-  </a>
-  <a href="https://github.com/ChotaCoderSK">
-    <img alt="Shivam Gupta's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChotaCoderSK&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ChotaCoderSK&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChotaCoderSK&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
 
-## 🌐 Connect with Me  
+## 🌐 Connect With Me  
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/shivam-gupta-5991991b4/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
   <a href="https://twitter.com/Shivam61071300"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-  <a href="https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-  <a href="https://github.com/guptaji2313/"><img src="https://img.icons8.com/color/48/000000/github--v3.png"/></a>
+  <a href="mailto:chotacodersk@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
+  <a href="https://github.com/ChotaCoderSK"><img src="https://img.icons8.com/color/48/000000/github--v3.png"/></a>
 </p>
 
 ---
 
 ## ❤ Views & Followers  
 
-<a href="https://github.com/ChotaCoderSK?tab=followers">
-  <img src="https://img.shields.io/github/followers/ChotaCoderSK?label=Followers&style=social" alt="GitHub Badge">
-</a>
-<a href="https://github.com/ChotaCoderSK">
-  <img src="https://komarev.com/ghpvc/?username=ChotaCoderSK&color=blue&style=flat-square" alt="Profile Views"/>
-</a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ChotaCoderSK&label=Profile%20Views&color=0e75b6&style=flat" alt="views"/>
+  <a href="https://github.com/ChotaCoderSK?tab=followers"><img src="https://img.shields.io/github/followers/ChotaCoderSK?label=Followers&style=social" alt="followers"/></a>
+</p>
